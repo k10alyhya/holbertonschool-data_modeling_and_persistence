@@ -1,0 +1,1 @@
+SELECT max(stock) as maxumum_of_stock FROM books;
